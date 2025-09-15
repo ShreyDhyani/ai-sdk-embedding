@@ -15,6 +15,13 @@
       "when": 1757919803019,
       "tag": "0001_sweet_cassandra_nova",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1757933289494,
+      "tag": "0002_light_captain_flint",
+      "breakpoints": true
     }
   ]
 }
